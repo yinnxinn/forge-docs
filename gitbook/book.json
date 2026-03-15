@@ -1,0 +1,10 @@
+{
+  "title": "Lingtarn Forge",
+  "description": "DSL-driven full-stack platform documentation",
+  "language": "en",
+  "structure": {
+    "readme": "README.md",
+    "summary": "SUMMARY.md",
+    "langs": "LANGS.md"
+  }
+}
