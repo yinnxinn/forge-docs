@@ -1,0 +1,8 @@
+# GitBook (gitbook.com) Git Sync — content lives in ./gitbook/
+# See: https://docs.gitbook.com/getting-started/git-sync/content-configuration
+
+root: ./gitbook/
+
+structure:
+  readme: README.md
+  summary: SUMMARY.md
